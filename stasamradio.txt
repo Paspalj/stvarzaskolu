@@ -1,0 +1,6 @@
+-napravio github nalog
+-napravio novi repository
+-nazvao repository stvarzaskolu
+-dodao main.js fajl u taj novi repository
+-napravio tekst fajl koji trenutno citate
+-uploadovao ovaj tekst
